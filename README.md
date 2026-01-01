@@ -1,4 +1,4 @@
-# 🌦️ Weather & Health Advisory App
+# 🌦️ Weather & Health Advisory ,suggest cloths according to weather App
 
 A simple weather application that shows **today’s climate conditions**, **suggests suitable clothing**, and **predicts possible health risks** based on the current weather.
 
